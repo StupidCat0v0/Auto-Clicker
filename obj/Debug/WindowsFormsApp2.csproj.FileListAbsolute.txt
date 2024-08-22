@@ -1,0 +1,42 @@
+C:\Users\chenyanheng\Desktop\C#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\chenyanheng\Desktop\C#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\chenyanheng\Desktop\C#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\chenyanheng\Desktop\C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\chenyanheng\Desktop\C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\chenyanheng\Desktop\C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\chenyanheng\Desktop\C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\chenyanheng\Desktop\C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\chenyanheng\Desktop\C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\chenyanheng\Desktop\C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\chenyanheng\Desktop\C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\chenyanheng\Desktop\ALL\C#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\chenyanheng\Desktop\ALL\C#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\chenyanheng\Desktop\ALL\C#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\chenyanheng\Desktop\ALL\C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\chenyanheng\Desktop\ALL\C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\chenyanheng\Desktop\ALL\C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\chenyanheng\Desktop\ALL\C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\chenyanheng\Desktop\ALL\C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\chenyanheng\Desktop\ALL\C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\chenyanheng\Desktop\ALL\C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\chenyanheng\Desktop\ALL\C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\chenyanheng\Desktop\ALL\C#\连点器\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\chenyanheng\Desktop\ALL\C#\连点器\bin\Debug\WindowsFormsApp2.exe
+C:\Users\chenyanheng\Desktop\ALL\C#\连点器\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\chenyanheng\Desktop\ALL\C#\连点器\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\chenyanheng\Desktop\ALL\C#\连点器\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\chenyanheng\Desktop\ALL\C#\连点器\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\chenyanheng\Desktop\ALL\C#\连点器\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\chenyanheng\Desktop\ALL\C#\连点器\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\chenyanheng\Desktop\ALL\C#\连点器\obj\Debug\WindowsFormsApp2.exe
+C:\Users\chenyanheng\Desktop\ALL\C#\连点器\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\连点器\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\连点器\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\连点器\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\连点器\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\连点器\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\连点器\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\连点器\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\连点器\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\连点器\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\连点器\obj\Debug\WindowsFormsApp2.pdb
