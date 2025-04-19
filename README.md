@@ -1,2 +1,2 @@
-# Connector
+# Auto Clicker
 Only supports Chinese
