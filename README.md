@@ -1,4 +1,4 @@
 # Auto Clicker
-Only supports Chinese
+Only supports Chinese.
 
-![Alt text](/image.png)
+![Image](/image.png)
